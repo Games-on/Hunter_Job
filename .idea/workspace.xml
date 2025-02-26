@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63e1b85-416b-4de3-8a2e-c555ede0508d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/SecurityConfiguration.java" afterDir="false" />
-    </list>
+    <list default="true" id="f63e1b85-416b-4de3-8a2e-c555ede0508d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +113,7 @@
       <updated>1740058126209</updated>
       <workItem from="1740058127302" duration="3692000" />
       <workItem from="1740243375039" duration="3843000" />
-      <workItem from="1740411959123" duration="3430000" />
+      <workItem from="1740411959123" duration="4463000" />
     </task>
     <servers />
   </component>
