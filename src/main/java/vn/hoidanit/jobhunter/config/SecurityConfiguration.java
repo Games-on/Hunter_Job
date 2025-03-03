@@ -23,6 +23,7 @@ import org.springframework.security.web.SecurityFilterChain;
 
 import com.nimbusds.jose.jwk.source.ImmutableSecret;
 import com.nimbusds.jose.util.Base64;
+
 import vn.hoidanit.jobhunter.util.SecurityUtil;
 
 @Configuration
@@ -41,13 +42,19 @@ public class SecurityConfiguration {
     public SecurityFilterChain filterChain(
             HttpSecurity http,
             CustomAuthenticationEntryPoint customAuthenticationEntryPoint) throws Exception {
+
+        String[] whiteList = {
+                "/",
+                "/api/v1/auth/login", "/api/v1/auth/refresh", "/storage/**",
+                "/api/v1/companies/**", "/api/v1/jobs/**"
+        };
+
         http
-                .csrf(c -> c.disable())
+                .csrf(AbstractHttpConfigurer::disable)
                 .cors(Customizer.withDefaults())
                 .authorizeHttpRequests(
                         authz -> authz
-                                .requestMatchers("/",
-                                        "/api/v1/auth/login", "/api/v1/auth/refresh", "/storage/**")
+                                .requestMatchers(whiteList)
                                 .permitAll()
                                 .anyRequest().authenticated())
                 .oauth2ResourceServer((oauth2) -> oauth2.jwt(Customizer.withDefaults())
