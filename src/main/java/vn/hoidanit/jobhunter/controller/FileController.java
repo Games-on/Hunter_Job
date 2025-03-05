@@ -51,7 +51,10 @@ public class FileController {
         }
         String fileName = file.getOriginalFilename();
         List<String> allowedExtensions = Arrays.asList("pdf", "jpg", "jpeg", "png", "doc", "docx");
-        boolean isValid = allowedExtensions.stream().anyMatch(item -> fileName.toLowerCase().endsWith(item));
+        boolean isValid = allowedExtensions.stream().anyMatch(item -> {
+            assert fileName != null;
+            return fileName.toLowerCase().endsWith(item);
+        });
 
         if (!isValid) {
             throw new StorageException("Invalid file extension. only allows " + allowedExtensions.toString());
