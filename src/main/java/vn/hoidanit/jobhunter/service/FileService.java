@@ -40,18 +40,28 @@ public class FileService {
 
     }
 
-    public String store(MultipartFile file, String folder) throws URISyntaxException, IOException {
-        // create unique filename
+    public String store(MultipartFile file, String folder) throws IOException {
+        // Tạo tên file duy nhất
         String finalName = System.currentTimeMillis() + "-" + file.getOriginalFilename();
 
-        URI uri = new URI(baseURI + folder + "/" + finalName);
-        Path path = Paths.get(uri);
+        // Loại bỏ "file:" và đảm bảo không có dấu '/' dư thừa
+        String uploadDir = baseURI.replace("file:", "").replaceAll("/$", "");
+
+        // Ghép đường dẫn đúng
+        Path path = Paths.get(uploadDir, folder, finalName);
+
+        // Kiểm tra thư mục tồn tại, nếu chưa có thì tạo mới
+        if (!Files.exists(path.getParent())) {
+            Files.createDirectories(path.getParent());
+        }
+
+        // Lưu file
         try (InputStream inputStream = file.getInputStream()) {
-            Files.copy(inputStream, path,
-                    StandardCopyOption.REPLACE_EXISTING);
+            Files.copy(inputStream, path, StandardCopyOption.REPLACE_EXISTING);
         }
         return finalName;
     }
+
 
     public long getFileLength(String fileName, String folder) throws URISyntaxException {
         URI uri = new URI(baseURI + folder + "/" + fileName);

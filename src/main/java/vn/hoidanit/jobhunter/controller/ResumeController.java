@@ -112,7 +112,7 @@ public class ResumeController {
             Pageable pageable) {
 
         List<Long> arrJobIds = null;
-        String email = SecurityUtil.getCurrentUserLogin().isPresent() == true
+        String email = SecurityUtil.getCurrentUserLogin().isPresent()
                 ? SecurityUtil.getCurrentUserLogin().get()
                 : "";
         User currentUser = this.userService.handleGetUserByUsername(email);
@@ -120,13 +120,14 @@ public class ResumeController {
             Company userCompany = currentUser.getCompany();
             if (userCompany != null) {
                 List<Job> companyJobs = userCompany.getJobs();
-                if (companyJobs != null && companyJobs.size() > 0) {
-                    arrJobIds = companyJobs.stream().map(x -> x.getId())
+                if (companyJobs != null && !companyJobs.isEmpty()) {
+                    arrJobIds = companyJobs.stream().map(Job::getId)
                             .collect(Collectors.toList());
                 }
             }
         }
 
+        assert arrJobIds != null;
         Specification<Resume> jobInSpec = filterSpecificationConverter.convert(filterBuilder.field("job")
                 .in(filterBuilder.input(arrJobIds)).get());
 
