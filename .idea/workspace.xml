@@ -5,21 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1b85-416b-4de3-8a2e-c555ede0508d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/util/error/PermissionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/OpenAPIConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/domain/response/email/ResEmailJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/config/PermissionInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/config/PermissionInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/JobhunterApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/JobhunterApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/config/PermissionInterceptorConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/config/PermissionInterceptorConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/config/SecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/config/SecurityConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/controller/SubscriberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/controller/SubscriberController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/repository/JobRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/repository/JobRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/repository/SubscriberRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/repository/SubscriberRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/service/SubscriberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/service/SubscriberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/util/FormatRestResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/util/FormatRestResponse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/util/error/GlobalException.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/util/error/GlobalException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PermissionInterceptorConfiguration.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SkillController.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SkillService.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SubscriberController.class.uniqueId0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/PermissionInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/PermissionInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/JobhunterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/JobhunterApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/PermissionInterceptorConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/PermissionInterceptorConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/controller/SubscriberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/controller/SubscriberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/repository/JobRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/repository/JobRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/repository/SubscriberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/repository/SubscriberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/service/SubscriberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/service/SubscriberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/util/FormatRestResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/util/FormatRestResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/util/error/GlobalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/util/error/GlobalException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/job.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +166,8 @@
       <workItem from="1740885098003" duration="2269000" />
       <workItem from="1740925608965" duration="10318000" />
       <workItem from="1741183156616" duration="6793000" />
+      <workItem from="1741361276201" duration="5154000" />
+      <workItem from="1742133813330" duration="1636000" />
     </task>
     <servers />
   </component>
