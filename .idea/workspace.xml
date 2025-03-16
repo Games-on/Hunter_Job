@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63e1b85-416b-4de3-8a2e-c555ede0508d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/config/SecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/config/SecurityConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/controller/ResumeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/controller/ResumeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/service/FileService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/hoidanit/jobhunter/service/FileService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/PermissionInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/PermissionInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/config/SecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/controller/ResumeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/controller/ResumeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/service/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/hoidanit/jobhunter/service/FileService.java" afterDir="false" />
-    </list>
+    <list default="true" id="f63e1b85-416b-4de3-8a2e-c555ede0508d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +124,7 @@
       <workItem from="1740925608965" duration="10318000" />
       <workItem from="1741183156616" duration="6793000" />
       <workItem from="1741361276201" duration="5154000" />
-      <workItem from="1742133813330" duration="4664000" />
+      <workItem from="1742133813330" duration="4999000" />
     </task>
     <servers />
   </component>
