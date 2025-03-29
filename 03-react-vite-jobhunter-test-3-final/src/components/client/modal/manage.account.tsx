@@ -115,12 +115,13 @@ const ManageAccount = (props: IProps) => {
         {
             key: 'user-update-info',
             label: `Cập nhật thông tin`,
-            children: <UserUpdateInfo />,
+            children: `updating...`,
+            // children: <UserUpdateInfo />,
         },
         {
             key: 'user-password',
             label: `Thay đổi mật khẩu`,
-            children: `//todo`,
+            children: `updating...`,
         },
     ];
 
