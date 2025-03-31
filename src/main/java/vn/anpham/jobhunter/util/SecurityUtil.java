@@ -41,7 +41,7 @@ public class SecurityUtil {
     @Value("${hoidanit.jwt.base64-secret}")
     private String jwtKey;
 
-    @Value("${hoidanit.jwt.access-token-validity-in-seconds}")
+    @Value("${hoidanit.jwt.refresh-token-validity-in-seconds}")
     private long accessTokenExpiration;
 
     @Value("${hoidanit.jwt.refresh-token-validity-in-seconds}")

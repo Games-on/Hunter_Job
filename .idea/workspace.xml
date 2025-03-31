@@ -13,169 +13,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-react-vite-jobhunter-test-3-final/src/components/client/modal/manage.account.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/03-react-vite-jobhunter-test-3-final/src/components/client/modal/manage.account.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/anpham/jobhunter/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/anpham/jobhunter/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ApiMessage.class.uniqueId81" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/AuthController.class.uniqueId37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Company.class.uniqueId26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/CompanyController.class.uniqueId63" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/CompanyRepository.class.uniqueId82" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/CompanyService.class.uniqueId80" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/CorsConfig.class.uniqueId74" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/CustomAuthenticationEntryPoint.class.uniqueId61" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/DatabaseInitializer.class.uniqueId51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/DateTimeFormatConfiguration.class.uniqueId39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/EmailController.class.uniqueId4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/EmailService.class.uniqueId79" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/FileController.class.uniqueId19" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/FileService.class.uniqueId35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/FormatRestResponse.class.uniqueId30" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/GenderEnum.class.uniqueId11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/GlobalException.class.uniqueId3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/HelloController.class.uniqueId10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/IdInvalidException.class.uniqueId32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Job.class.uniqueId77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/JobController.class.uniqueId62" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/JobRepository.class.uniqueId70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/JobService.class.uniqueId59" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/JobhunterApplication.class.uniqueId34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/LevelEnum.class.uniqueId33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/OpenAPIConfig.class.uniqueId56" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Permission.class.uniqueId20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PermissionController.class.uniqueId57" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PermissionException.class.uniqueId5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PermissionInterceptor.class.uniqueId68" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PermissionInterceptorConfiguration.class.uniqueId75" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PermissionRepository.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/PermissionService.class.uniqueId52" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ReqLoginDTO.class.uniqueId73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResCreateJobDTO.class.uniqueId12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResCreateResumeDTO.class.uniqueId31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResCreateUserDTO$CompanyUser.class.uniqueId9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResCreateUserDTO.class.uniqueId48" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResEmailJob$CompanyEmail.class.uniqueId14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResEmailJob$SkillEmail.class.uniqueId55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResEmailJob.class.uniqueId49" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResFetchResumeDTO$JobResume.class.uniqueId21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResFetchResumeDTO$UserResume.class.uniqueId13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResFetchResumeDTO.class.uniqueId6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResLoginDTO$UserGetAccount.class.uniqueId54" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResLoginDTO$UserInsideToken.class.uniqueId78" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResLoginDTO$UserLogin.class.uniqueId38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResLoginDTO.class.uniqueId72" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResUpdateJobDTO.class.uniqueId17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResUpdateResumeDTO.class.uniqueId71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResUpdateUserDTO$CompanyUser.class.uniqueId28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResUpdateUserDTO.class.uniqueId42" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResUploadFileDTO.class.uniqueId69" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResUserDTO$CompanyUser.class.uniqueId15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResUserDTO$RoleUser.class.uniqueId23" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResUserDTO.class.uniqueId60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/RestResponse.class.uniqueId84" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResultPaginationDTO$Meta.class.uniqueId53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResultPaginationDTO.class.uniqueId8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Resume.class.uniqueId67" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResumeController.class.uniqueId50" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResumeRepository.class.uniqueId83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResumeService.class.uniqueId36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ResumeStateEnum.class.uniqueId7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Role.class.uniqueId41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/RoleController.class.uniqueId43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/RoleRepository.class.uniqueId29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/RoleService.class.uniqueId65" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SecurityConfiguration.class.uniqueId18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SecurityUtil.class.uniqueId44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Skill.class.uniqueId22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SkillController.class.uniqueId40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SkillRepository.class.uniqueId76" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SkillService.class.uniqueId46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/StaticResourcesWebConfiguration.class.uniqueId27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/StorageException.class.uniqueId45" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Subscriber.class.uniqueId25" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SubscriberController.class.uniqueId2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SubscriberRepository.class.uniqueId58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SubscriberService.class.uniqueId24" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/User.class.uniqueId64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserController.class.uniqueId47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserDetailsCustom.class.uniqueId1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserRepository.class.uniqueId66" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserService.class.uniqueId16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/anpham/jobhunter/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/anpham/jobhunter/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/vn/anpham/jobhunter/util/SecurityUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/vn/anpham/jobhunter/util/SecurityUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/JobhunterApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/CorsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/CustomAuthenticationEntryPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/DatabaseInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/DateTimeFormatConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/OpenAPIConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/PermissionInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/PermissionInterceptorConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/SecurityConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/StaticResourcesWebConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/config/UserDetailsCustom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/AuthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/CompanyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/EmailController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/FileController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/JobController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/PermissionController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/ResumeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/RoleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/SkillController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/SubscriberController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/Company.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/Job.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/Permission.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/Resume.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/Skill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/Subscriber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/request/ReqLoginDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/ResCreateUserDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/ResLoginDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/ResUpdateUserDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/ResUserDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/RestResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/ResultPaginationDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/email/ResEmailJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/file/ResUploadFileDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/job/ResCreateJobDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/job/ResUpdateJobDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/resume/ResCreateResumeDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/resume/ResFetchResumeDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/domain/response/resume/ResUpdateResumeDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/repository/CompanyRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/repository/JobRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/repository/PermissionRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/repository/ResumeRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/repository/RoleRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/repository/SkillRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/repository/SubscriberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/CompanyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/EmailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/FileService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/JobService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/PermissionService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/ResumeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/RoleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/SkillService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/SubscriberService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/FormatRestResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/SecurityUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/annotation/ApiMessage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/constant/GenderEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/constant/LevelEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/constant/ResumeStateEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/error/GlobalException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/error/IdInvalidException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/error/PermissionException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/error/StorageException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/job.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/job.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vn/anpham/jobhunter/JobhunterApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/SecurityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vn/anpham/jobhunter/util/SecurityUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +154,7 @@
       <workItem from="1741361276201" duration="5154000" />
       <workItem from="1742133813330" duration="5821000" />
       <workItem from="1743086808702" duration="3935000" />
-      <workItem from="1743257446995" duration="762000" />
+      <workItem from="1743257446995" duration="4051000" />
     </task>
     <servers />
   </component>
